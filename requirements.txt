@@ -1,1 +1,1 @@
-ipywidgets=7.6.3
+ipywidgets==7.6.3
